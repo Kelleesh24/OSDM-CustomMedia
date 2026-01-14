@@ -33,7 +33,7 @@ This part is self explanatory. I wanna give credits to these people for their co
 - ianhan : Some of the fonts of his pack (https://github.com/ianhan/BitmapFonts/).
 - phracker : f0ntbin fonts (https://github.com/phracker/f0ntbin/).
 - Daniel Guldkrans : Some of their fonts (ianhan, phracker).
-- Roy / SAC : Some of their scene fonts (https://www.roysac.com/, https://www.flickr.com/photos/cumbrowski/albums/72157611369364865, https://www.flickr.com/photos/cumbrowski/albums/72157611369289453, https://www.flickr.com/photos/cumbrowski/albums/72157611440859018, https://www.flickr.com/photos/cumbrowski/albums/72157611369269727, https://www.flickr.com/photos/cumbrowski/albums/72157611368960661, https://www.flickr.com/photos/cumbrowski/albums/72157611369149293, https://www.flickr.com/photos/cumbrowski/albums/72157611369216239, https://www.flickr.com/photos/cumbrowski/albums/72157611369252367).
+- Roy / SAC : Some of their scene fonts. And his useful OSDM Script cheatsheet (https://www.roysac.com/, https://www.flickr.com/photos/cumbrowski/albums/72157611369364865, https://www.flickr.com/photos/cumbrowski/albums/72157611369289453, https://www.flickr.com/photos/cumbrowski/albums/72157611440859018, https://www.flickr.com/photos/cumbrowski/albums/72157611369269727, https://www.flickr.com/photos/cumbrowski/albums/72157611368960661, https://www.flickr.com/photos/cumbrowski/albums/72157611369149293, https://www.flickr.com/photos/cumbrowski/albums/72157611369216239, https://www.flickr.com/photos/cumbrowski/albums/72157611369252367, https://www.roysac.com/osdm/default.html#TOOLS).
 - C20G : Music, Other (https://modarchive.org/index.php?request=view_artist_modules&query=94193).
 - Lord Louvre : Music, Other.
 - Sachen : Music, Graphics, Other.
