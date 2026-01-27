@@ -36,6 +36,8 @@ For now, the aproximated contents of this pack are the next:
 - **478 total logos**
 - 104 modules
 - 17 textures
+- And two versions of OSDM (v2.23.401, v2.23.402).
+
 ## Installation Instructions (Normal installation) (*ONLY* if you have a OSDM program already on your computer):
 ### Step 1:
 Download the OSDM:CM pack by clikcing on the "Code" button and clicking on "Download ZIP". You can locate the ZIP anywhere you can easily get access to the file.
@@ -47,9 +49,10 @@ In the program folder, click on the "Data" folder, make a new one and rename it 
 ### Step 1:
 Download the OSDM:CM pack by clikcing on the "Code" button and clicking on "Download ZIP". You can locate the ZIP anywhere you can easily get access to the file.
 ### Step 2:
-Once the file is downloaded, open it and double-click on the "OSDM-CustomMedia-main" folder. Next, open your file explorer application and locate a place to put the "OSDM_bin" folder contents (Like a folder that you usually save your portable programs, or anything but a easy place to locate the program). Once you select a place, drag and drop the desired version of the program (We recommend to drag the latest version (v2.23.402)...).
+Once the file is downloaded, open it and double-click on the "OSDM-CustomMedia-main" folder. Next, open your file explorer application and locate a place to put the "OSDM_bin" folder contents (Like a folder that you usually save your portable programs, or anything but a easy place to locate the program). Once you select a place, drag and drop the desired version folder of the program (We recommend to drag the latest version (v2.23.402)...).
 ### Step 3:
-In your OSDM program folder, click on the "Data" folder, make a new one and rename it to "OSDM_CustomMedia", and once the folder is created, open it and drag and drop the contents of the ZIP (CM_Anim, CM_Copper, CM_Fonts, etc...). Of course skippin the "OSDM_bin" folder, we don't want to make duplicates of the same program (because you've already extracted the program)...
+In your OSDM program folder, click on the "Data" folder, make a new one and rename it to "OSDM_CustomMedia", and once the folder is created, open it and drag and drop the contents of the ZIP (CM_Anim, CM_Copper, CM_Fonts, etc...). Of course skipping the "OSDM_bin" folder, we don't want to make duplicates of the same program (because you've already extracted the program)...
+
 ## Special greets (contributions):
 This part is self explanatory. I wanna give credits to these people for their contributions that are specified below:
 - Bitmap Fonts (Bytemap Fonts) : Some of their fonts, repacked (http://bmf.wz.cz:8080/).
