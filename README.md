@@ -22,13 +22,18 @@ It is a version that contains extra resources, but for obvious reason we can't t
 For now, the aproximated contents of this pack are the next:
 - 3 extra files
 - 8 animation images
+- 48 copper images
 - 39 fonts in incompatible grid sizes (perfect for CODEF projects).
 - 298 8x8 fonts
 - 573 16x16 fonts (additional 181 16x16 fonts in private version).
 - 315 32x32 fonts (additional 411 32x32 fonts in private version).
+- **1225 total fonts**
 - 175 layer images
 - 46 project logos
+- 1 extra logo
+- 3 pouet logos
 - 428 warez logos
+- **478 total logos**
 - 104 modules
 - 17 textures
 ## Installation Instructions (Normal installation) (*ONLY* if you have a OSDM program already on your computer):
