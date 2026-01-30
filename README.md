@@ -26,8 +26,8 @@ For now, the aproximated contents of this pack are the next:
 - 39 fonts in incompatible grid sizes (perfect for CODEF projects).
 - 298 8x8 fonts
 - 573 16x16 fonts (additional 181 16x16 fonts in private version).
-- 315 32x32 fonts (additional 411 32x32 fonts in private version).
-- **1225 total fonts**
+- 415 32x32 fonts (additional 411 32x32 fonts in private version).
+- **1325 total fonts**
 - 175 layer images
 - 46 project logos
 - 1 extra logo
