@@ -62,7 +62,7 @@ This part is self explanatory. I wanna give credits to these people for their co
 - Roy / SAC : Some of their scene fonts. And his useful OSDM Script cheatsheet (https://www.roysac.com/, https://www.flickr.com/photos/cumbrowski/albums/72157611369364865, https://www.flickr.com/photos/cumbrowski/albums/72157611369289453, https://www.flickr.com/photos/cumbrowski/albums/72157611440859018, https://www.flickr.com/photos/cumbrowski/albums/72157611369269727, https://www.flickr.com/photos/cumbrowski/albums/72157611368960661, https://www.flickr.com/photos/cumbrowski/albums/72157611369149293, https://www.flickr.com/photos/cumbrowski/albums/72157611369216239, https://www.flickr.com/photos/cumbrowski/albums/72157611369252367, https://www.roysac.com/osdm/default.html#TOOLS).
 - keygenmusic.net (defunct) : Some modules.
 - C20G : Music, Other (https://modarchive.org/index.php?request=view_artist_modules&query=94193).
-- Lord Louvre : Music, Other.
+- Lord Louvre : Music, Other (https://modarchive.org/index.php?request=view_artist_modules&query=98526).
 - Sachen : Music, Graphics, Other.
 - Shake : Graphics.
 - Isosceles : Graphics.
@@ -72,4 +72,5 @@ This part is self explanatory. I wanna give credits to these people for their co
 - Icarus / Paradox : Inspiration. You made me a demolover :)
 - And other guys and groups that would be listed on a text file in the extras folder.
 ## End
-WIP
+Last updated: Jun 9th 2026
+Programmed update: Jun 29th 2026 max.
